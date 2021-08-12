@@ -4,11 +4,14 @@
  * and open the template in the editor.
  */
 package modelo;
+package Herencia;
 
 /**
  *
  * @author Real
  */
-public class terrestre {
+public class terrestre extends vehiculo {
+    
+    
     
 }
