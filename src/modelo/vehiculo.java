@@ -10,5 +10,16 @@ package modelo;
  * @author Real
  */
 public class vehiculo {
+    private String marca, modelo, placa;
+
+    public vehiculo(String marca, String modelo, String placa) {
+        this.marca = marca;
+        this.modelo = modelo;
+        this.placa = placa;
+    }
+    
+    public String mostrar(){
+        return "Marca: "+marca+"\nModelo: "+modelo+"\nPlaca: $"+placa+"\n";
+    }
     
 }
