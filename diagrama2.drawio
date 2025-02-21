@@ -1,9 +1,231 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15">
   <diagram name="Página-1" id="_4_cftB0WhaDeEuNWF46">
-    <mxGraphModel>
+    <mxGraphModel dx="2117" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-1" value="App móvil - Diario de emociones jóvenes 14-18 años" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="173" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-2" value="Objetivo" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="241" y="365" width="102" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-3" value="Fomentar autoconocimiento" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="60" y="423" width="169" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-4" value="Proveer autoayuda" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="260" y="432" width="174" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-5" value="Público" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="427" y="138" width="93" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-6" value="Jóvenes 14-18 años" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="302" y="40" width="178" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-7" value="Profesionales en salud mental" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="504" y="48" width="199" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-8" value="Funcionalidades" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="753" y="264" width="155" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-9" value="Registro emocional" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="969" y="326" width="176" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-10" value="Análisis de patrones" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="976" y="239" width="184" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-11" value="Recomendaciones" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="167" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-12" value="Tecnología" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="116" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-13" value="Flutter/React Native" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="260" y="520" width="189" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-14" value="IA para análisis" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="705" y="429" width="147" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-15" value="Almacenamiento seguro" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="560" y="530" width="213" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-16" value="Seguridad" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="286" y="276" width="110" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-17" value="Cifrado de datos" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="75" y="241" width="158" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-18" value="Autenticación segura" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="31" y="323" width="191" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-19" value="Beneficios" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="284" y="188" width="113" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-20" value="Apoyo emocional" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="163" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-21" value="Monitoreo profesional" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="20" y="159" width="197" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-22" value="Retos" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="665" y="139" width="79" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-23" value="Precisión en detección" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="773" y="185" width="202" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-24" value="Privacidad vs personalización" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="723" y="20" width="151" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-25" value="Adopción y uso" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="804" y="105" width="148" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-26" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-1" target="VqP6LrmRbo0DqeM2YjYs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-27" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-1" target="VqP6LrmRbo0DqeM2YjYs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-28" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-1" target="VqP6LrmRbo0DqeM2YjYs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-29" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-1" target="VqP6LrmRbo0DqeM2YjYs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-30" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-1" target="VqP6LrmRbo0DqeM2YjYs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-31" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-1" target="VqP6LrmRbo0DqeM2YjYs-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-32" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-1" target="VqP6LrmRbo0DqeM2YjYs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-33" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-2" target="VqP6LrmRbo0DqeM2YjYs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-34" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-2" target="VqP6LrmRbo0DqeM2YjYs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-35" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-5" target="VqP6LrmRbo0DqeM2YjYs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-36" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-5" target="VqP6LrmRbo0DqeM2YjYs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-37" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-8" target="VqP6LrmRbo0DqeM2YjYs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-38" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-8" target="VqP6LrmRbo0DqeM2YjYs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-39" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-8" target="VqP6LrmRbo0DqeM2YjYs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-40" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-12" target="VqP6LrmRbo0DqeM2YjYs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-41" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-12" target="VqP6LrmRbo0DqeM2YjYs-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-42" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-12" target="VqP6LrmRbo0DqeM2YjYs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-43" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-16" target="VqP6LrmRbo0DqeM2YjYs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-44" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-16" target="VqP6LrmRbo0DqeM2YjYs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-45" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-19" target="VqP6LrmRbo0DqeM2YjYs-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-46" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-19" target="VqP6LrmRbo0DqeM2YjYs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-47" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-22" target="VqP6LrmRbo0DqeM2YjYs-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-48" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-22" target="VqP6LrmRbo0DqeM2YjYs-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-49" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-22" target="VqP6LrmRbo0DqeM2YjYs-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-101" value="Análisis de sentimientos en redes - Jóvenes 14-18" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="304" y="765" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-102" value="Objetivo" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="360.5" y="1004" width="102" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-103" value="Detectar tendencias emocionales" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="321" y="1090" width="185" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-104" value="Público" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="533.5" y="957" width="93" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-105" value="Jóvenes, investigadores" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="669" y="890" width="210" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-106" value="Datos" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="114" y="919" width="80" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-107" value="Redes sociales, encuestas" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="7" y="1004" width="223" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-108" value="Análisis" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="123" y="843" width="94" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-109" value="IA y visualización de datos" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="-20" y="762" width="228" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-110" value="Funcionalidades" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="520" y="762" width="155" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-111" value="Dashboard, alertas" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="705" y="830" width="174" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-112" value="Tecnología" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="690" width="116" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-113" value="Plataforma web/móvil, nube" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="308" y="610" width="207" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-114" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-101" target="VqP6LrmRbo0DqeM2YjYs-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-115" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-101" target="VqP6LrmRbo0DqeM2YjYs-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-116" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-101" target="VqP6LrmRbo0DqeM2YjYs-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-117" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-101" target="VqP6LrmRbo0DqeM2YjYs-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-118" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-101" target="VqP6LrmRbo0DqeM2YjYs-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-119" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-101" target="VqP6LrmRbo0DqeM2YjYs-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-120" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-102" target="VqP6LrmRbo0DqeM2YjYs-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-121" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-104" target="VqP6LrmRbo0DqeM2YjYs-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-122" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-106" target="VqP6LrmRbo0DqeM2YjYs-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-123" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-108" target="VqP6LrmRbo0DqeM2YjYs-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-124" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-110" target="VqP6LrmRbo0DqeM2YjYs-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqP6LrmRbo0DqeM2YjYs-125" style="endArrow=none;rounded=0;" edge="1" parent="1" source="VqP6LrmRbo0DqeM2YjYs-112" target="VqP6LrmRbo0DqeM2YjYs-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
